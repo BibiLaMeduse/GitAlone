@@ -1,0 +1,64 @@
+body {
+  	padding: 40px;
+  	background-image: url(https://images.pexels.com/photos/220118/pexels-photo-220118.jpeg?cs=srgb&dl=lights-bokeh-blurred-220118.jpg&fm=jpg);
+	background-attachment: fixed;
+	font-family: 'Bitter', serif;
+	color:#da96e8;
+
+}
+
+img{
+	display:block;
+	width:40%;
+	height:40%;
+	margin-left:auto;
+	margin-right:auto;
+	-moz-border-radius:130px;
+	-webkit-border-radius:130px;
+	border-radius:130px;
+}
+
+h1{
+	text-align: center;
+	font-size: 5em;
+	font-family: 'Bitter', serif;
+	color: #ffaa00;
+	text-shadow: 4px 4px 2px #ff6600;
+}
+
+h2{
+	text-align: center;
+	font-size: 2em;
+	margin: 5%;
+	text-shadow: 3px 3px 2px #6005c6;
+}
+
+h3{
+	text-align: center;
+	font-size: 2.3em;
+	color: #ffaa00;
+	text-shadow: 3px 3px 2px #ff6600;
+}
+
+.adresse{
+	text-align: left;
+	font-size: 1.5em;
+	padding: 0.5em;
+	margin: 4%;
+	color: #ffaa00;
+	text-shadow: 2px 2px 1px #6005c6;
+}
+
+p{
+	border-style: solid;
+	border-width: 3px;
+	border-color: #8603b2;
+	text-align: center;
+	border-radius: 20px 20px;
+	box-shadow: 8px 8px 3px #5f2a82;
+	font-size: 2em;
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 4%;
+}
